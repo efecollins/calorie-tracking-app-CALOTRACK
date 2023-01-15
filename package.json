@@ -1,0 +1,15 @@
+{
+  "name": "calorie-tracking-app-calotrack",
+  "version": "1.0.0",
+  "description": "An app used in tracking calories and helpimg you eat better.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Efosa Collins EVBOWE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
